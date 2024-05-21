@@ -18,3 +18,12 @@ Here are some ideas to get you started:
 ## Tools
 + Postman - Testing tool for REST Api
 + Github
+
+
+## Courses
++ [Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/certificate/UC-b8963332-09f1-4d0c-8518-eb8757be6f1e/) - Udemy
++ [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage) - at LinkedIn
++ [Typescript essential training](https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript) - at LinkedIn
++ [Software architecture: from developer to architect](https://www.linkedin.com/learning/software-architecture-from-developer-to-architect/wisdom-in-software-engineering) - at LinkedIn
+
+  
