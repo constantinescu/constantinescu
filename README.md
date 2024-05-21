@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Tools
-Postman
+Postman - Testing tool for REST Api
