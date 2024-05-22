@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 + [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage) - at LinkedIn 2024
 + [Typescript essential training](https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript) - at LinkedIn 2024
 + [Software architecture: from developer to architect](https://www.linkedin.com/learning/software-architecture-from-developer-to-architect/wisdom-in-software-engineering) - at LinkedIn 2024
-+ 
+  
   <space>
 + [Data Structures and Performance](https://www.coursera.org/account/accomplishments/verify/P7TXENXCVUJE) - Coursera
 + [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/verify/JBZ936QKRBS5) - Coursera
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 + [Client Needs and Software Requirements ](https://www.coursera.org/account/accomplishments/verify/X3GZ8DLC34WB) - Coursera
 + [Introduction to Software Product Management](https://www.coursera.org/account/accomplishments/verify/7L7AJHD7NLPG) - Coursera
 + [Pre-Calculus: Functions](https://www.coursera.org/account/accomplishments/verify/UJJWCR4MEV3R) - Coursera
-+ 
+  
   <space>
   
 + [Creating and giving business presentations](https://www.linkedin.com/learning/creating-and-giving-business-presentations/building-great-business-presentations) - LinkedIn
