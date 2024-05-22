@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 + [Software architecture: from developer to architect](https://www.linkedin.com/learning/software-architecture-from-developer-to-architect/wisdom-in-software-engineering) - at LinkedIn 2024
   
   <space>
+  
 + [Data Structures and Performance](https://www.coursera.org/account/accomplishments/verify/P7TXENXCVUJE) - Coursera
 + [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/verify/JBZ936QKRBS5) - Coursera
 + [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera
