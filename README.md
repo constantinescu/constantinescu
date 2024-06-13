@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Courses
 + Software Development Foundations
-+ [In progress - Micromaster Software Development Foundations](https://courses.edx.org/dashboard/programs/0f56cf5f-a40a-4c65-8c4e-5dee9ec0be62/) - edX 2024
++ [In progress - MicroMasters Program - Software Development Foundations](https://courses.edx.org/dashboard/programs/0f56cf5f-a40a-4c65-8c4e-5dee9ec0be62/) - edX 2024
 + [Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/certificate/UC-b8963332-09f1-4d0c-8518-eb8757be6f1e/) - Udemy 2024
 + [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage) - at LinkedIn 2024
 + [Typescript essential training](https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript) - at LinkedIn 2024
