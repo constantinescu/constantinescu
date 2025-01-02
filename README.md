@@ -1,4 +1,5 @@
-## ![image](https://github.com/user-attachments/assets/ced0b5bc-70c3-4565-ae78-13fc595eec52)
+## ![image](https://github.com/user-attachments/assets/ced0b5bc-70c3-4565-ae78-13fc595eec52) ![image](https://github.com/user-attachments/assets/273bffd9-5daa-4c48-b431-ec984497b898)
+
 + (define-struct flower (x y size))
 + ;; Flower is (make-flower Natural Natural Natural)
 ;; interp. x is the x-coordintate of mouse placed by user in the canvas, in the pixels, y is the y coordintate of mouse in pixels
