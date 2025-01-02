@@ -1,5 +1,19 @@
-## Hi there 👋
+## ![image](https://github.com/user-attachments/assets/ced0b5bc-70c3-4565-ae78-13fc595eec52)
++ (define-struct flower (x y size))
++ ;; Flower is (make-flower Natural Natural Natural)
+;; interp. x is the x-coordintate of mouse placed by user in the canvas, in the pixels, y is the y coordintate of mouse in pixels
+;; size is the initial ratio to build the geometrical structure to look like a flower
+;; the center of Flower image is renderd at the mouse coordinate
+;; on each mouse click a new flower pop-up at that position and then wiht each 'on-tick' event the flower increases the size
+;; we consider the mouse position at the center of the image
 
++ ;; A stylized flower has a number of petals and is symmetrical, it can be build with a number of ellipses which looks like petals.
+;; I choose 8 ellipses for simplicity
+(define IMG_FLOWER_TEST  (overlay
+                (above (ellipse 18 29 "solid" "red") (circle 13 "solid" "orange") (ellipse 18 29 "solid" "red")) 
+    (rotate 90  (above (ellipse 18 29 "solid" "red") (circle 13 "solid" "orange")  (ellipse 18 29 "solid" "red") ))
+    (rotate 135 (above (ellipse 18 29 "solid" "red") (circle 13 "solid" "orange")  (ellipse 18 29 "solid" "red") ))
+    (rotate 225 (above (ellipse 18 29 "solid" "red") (circle 13 "solid" "orange")  (ellipse 18 29 "solid" "red") ))
 <!--
 **constantinescu/constantinescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
