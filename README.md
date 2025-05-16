@@ -5,7 +5,7 @@
 ;; interp. x is the x-coordintate of mouse placed by user in the canvas, in the pixels, y is the y coordintate of mouse in pixels
 ;; size is the initial ratio to build the geometrical structure to look like a flower
 ;; the center of Flower image is renderd at the mouse coordinate
-;; on each mouse click a new flower pop-up at that position and then wiht each 'on-tick' event the flower increases the size
+;; on each mouse click a new flower pop-up at that position and then with each 'on-tick' event the flower increases the size
 ;; we consider the mouse position at the center of the image
 
 + ;; A stylized flower has a number of petals and is symmetrical, it can be build with a number of ellipses which looks like petals.
